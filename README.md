@@ -1,8 +1,8 @@
 Hi!
 
 This is a custom case for the Ti-Nspire CX CAS I (not II). It is largely unfinnished at the moment, but here are some notes about the current build:
-1. The back cover is slightly taller than it should be, and the fillets on the bottom of it is off by a large amount. 
-2. The cover for the charging port is fragile and brittle, I would recomend printing it with a 0.2mm nozzel and in a strong material.
-3. The shells for the calculator are likely a long way off as they are very complex shapes, but if you want to help out, go ahead and try and make/fix any parts, it would be greatly appreciated.
+1. I am likely neer going to make a full replacement for the case at this point, as I've mostly lost interest in this project. The latest version I've uploaded is probably the most complete I'll ever make it.
+2. Whilst i know the battery cover is not compatible with the CX II, and the charging port cover might be (not sure), the case 100% is.
+3. For best looking case, try looking at the example 3mf file I've given, and try using multicolour filament, using different bottom layer patterns on the different pattern objects in the assembely. I've also uploaded a photo of the final results of the print in the example file, so it's easy to see how it works.
 
-- Mercicrux
+- Merci
